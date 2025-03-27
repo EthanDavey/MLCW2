@@ -12,8 +12,6 @@ This repository contains an implementation of the TypiClust (TPC) active learnin
   - `fully_supervised_with_SSE.py`: Implementation of the fully supervised with self-supervised embeddings framework
   - `fully_supervised_with_LGFA.py`: Implementation of proposed extension with Label Guided Feature Adaptation
   - `semi_supervised.py`: Implementation of the semi-supervised framework (Self-Training with Consistency Regularization)
-  - `visualize_tsne.py`: Script to visualize the feature space using t-SNE
-  - `visualize_typiclust_selection.py`: Script to visualize the TypiClust selection process
 
 - `features/`: Contains extracted features from a pre-trained self-supervised model
   - `normalized_train_features.pkl`: Normalized features for the training set
