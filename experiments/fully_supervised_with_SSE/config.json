@@ -1,0 +1,12 @@
+{
+    "budget": 10,
+    "iterations": 6,
+    "repetitions": 1,
+    "exp_dir": "experiments/fully_supervised_with_SSE_B10",
+    "epochs": 200,
+    "batch_size": 64,
+    "seed": 42,
+    "features_path": "features/normalized_train_features.pkl",
+    "test_features_path": "features/normalized_test_features.pkl",
+    "device": "cuda"
+}
